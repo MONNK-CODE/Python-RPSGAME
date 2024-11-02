@@ -8,7 +8,7 @@
    "source": [
     "import random as r\n",
     "materials = [\"Rock\", \"Paper\", \"Scissors\"]\n",
-    "computer_choice = random.choice(materials)\n",
+    "computer_choice = r.choice(materials)\n",
     "restart = 'yes'\n",
     "while(restart == 'yes'):\n",
     "    user_choice = input(\"Choose Rock, Paper, or Scissors: \")\n",
