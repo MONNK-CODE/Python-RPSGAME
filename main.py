@@ -22,6 +22,6 @@ while restart.lower() == 'yes':
         print("You win!")
 
     else:
-        print("Computers wins!")
+        print("Computer wins!")
 
     restart = input('Do you want to play again?(yes or no) ').strip().lower()
