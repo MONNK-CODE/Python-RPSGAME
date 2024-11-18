@@ -20,4 +20,4 @@ This is a simple Rock-Paper-Scissors game implemented in Python. You play agains
 ## Run the Game
 
 ```bash
-python rock_paper_scissors.py
+python main.py
